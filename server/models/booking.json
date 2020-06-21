@@ -18,6 +18,18 @@
     "hotelId": {
       "type": "string",
       "required": true
+    },
+    "numberOfNights": {
+      "type": "number",
+      "required": true
+    },
+    "numberOfRooms": {
+      "type": "number",
+      "required": true
+    },
+    "date": {
+      "type": "string",
+      "required": true
     }
   },
   "validations": [],
@@ -33,6 +45,13 @@
       "property": "userId"
     }
   },
-  "acls": [],
+  "acls": [
+    {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$authenticated",
+      "permission": "ALLOW"
+    }
+  ],
   "methods": {}
 }

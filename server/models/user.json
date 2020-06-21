@@ -72,6 +72,13 @@
       "principalId": "$everyone",
       "permission": "ALLOW",
       "property": "signup"
+    },
+    {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$authenticated",
+      "permission": "ALLOW",
+      "property": "__get__bookings"
     }
   ],
   "methods": {}

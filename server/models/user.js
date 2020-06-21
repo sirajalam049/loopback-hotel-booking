@@ -8,7 +8,7 @@ module.exports = function (User) {
     User.me = async function (req) {
         const userId = _.get(req, 'accessToken.userId');
         if (!userId) throw ({ statusCode: HTTP_STATUS_CODES.BAD_REQUEST });
-        return await User.findById(userId).catch(error => { throw error; });
+        return await User.findById(userId, { include: ['bookings'] }).catch(error => { throw error; });
     };
     User.remoteMethod(
         'me',
