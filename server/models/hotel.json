@@ -1,6 +1,6 @@
 {
-  "name": "hotel",
-  "plural": "hotels",
+  "name": "Hotel",
+  "plural": "Hotels",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
@@ -34,7 +34,13 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "booking": {
+      "type": "hasMany",
+      "model": "Booking",
+      "foreignKey": "hotelId"
+    }
+  },
   "acls": [],
   "methods": {}
 }

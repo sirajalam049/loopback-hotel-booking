@@ -6,9 +6,33 @@
   "options": {
     "validateUpsert": true
   },
-  "properties": {},
+  "properties": {
+    "inDraft": {
+      "type": "boolean",
+      "default": false
+    },
+    "userId": {
+      "type": "string",
+      "required": true
+    },
+    "hotelId": {
+      "type": "string",
+      "required": true
+    }
+  },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "hotel": {
+      "type": "belongsTo",
+      "model": "Hotel",
+      "property": "hotelId"
+    },
+    "user": {
+      "type": "belongsTo",
+      "model": "user",
+      "property": "userId"
+    }
+  },
   "acls": [],
   "methods": {}
 }

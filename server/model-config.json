@@ -35,7 +35,7 @@
     "dataSource": "mongoDs",
     "public": false
   },
-  "hotel": {
+  "Hotel": {
     "dataSource": "mongoDs",
     "public": true
   },
