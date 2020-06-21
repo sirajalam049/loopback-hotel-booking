@@ -1,0 +1,102 @@
+[
+    {
+        "name": "The Leela Palace",
+        "phone": "011-3933-1234",
+        "location": "New Delhi",
+        "address": "Diplomatic Enclave, Africa Avenue, Chanakyapuri, New Delhi, Delhi 110023",
+        "price": 15000,
+        "about": "The Leela Palaces, Hotels and Resorts, commonly known as The Leela, is an Indian luxury hotel chain, founded in 1986 by C. P. Krishnan Nair, and owned by The Leela Group. Currently, The Leela is a group of nine luxury palaces and hotels.",
+        "thumbnail": "https://r1imghtlak.mmtcdn.com/jnfhu8brhl53hef9ipsk2bhj003u.jpg?&output-quality=75&downsize=520:350&crop=520:350;0,2&output-format=jpg",
+        "picture": "https://r1imghtlak.mmtcdn.com/jnfhu8brhl53hef9ipsk2bhj003u.jpg?&output-quality=100"
+    },
+    {
+        "name": "Trident",
+        "phone": "0124-245-0505",
+        "location": "Gurgaon",
+        "address": " 443, Gurgoan-Delhi Expy, Udyog Vihar Phase V, Sector 19, Gurugram, Haryana 122016",
+        "price": 12000,
+        "about": "Trident Hotels falls under the aegis of The Oberoi Group. The Oberoi Group has presence in six countries under the luxury 'Oberoi' and five-star 'Trident' brand. Founded in 1934, it operates 30 hotels, a Nile Cruiser and a Motor Vessel in the backwaters of Kerala. The Group is also engaged in flight catering, airport restaurants, travel and tour services, car rentals, project management and corporate air charters.",
+        "thumbnail": "https://static.toiimg.com/photo/53277760/.jpg",
+        "picture": "https://static.toiimg.com/photo/53277760/.jpg"
+    },
+    {
+        "name": "Radisson",
+        "phone": "98160-64333",
+        "location": "Shimla",
+        "address": "Goodwood Estate, Lower Bharari Rd, Shimla, Himachal Pradesh 171001",
+        "price": 11520,
+        "about": "Situated in the Himalaya Mountains, Radisson Jass Shimla offers scenic vistas that are sure to inspire. Stay just minutes from popular area attractions like the Gaiety Heritage Cultural Complex, Jakhu Temple and Christ Church. Tour the historical Viceregal Lodge at the Indian Institute of Advanced Study, or shop for souvenirs at Shimla’s popular Mall. As an added convenience, Shimla Airport (SLV) is only 26 kilometres away.",
+        "thumbnail": "https://r1imghtlak.mmtcdn.com/fa5d2e7ccfd311e9b6710242ac110002.jpg?&output-quality=75&downsize=520:350&crop=520:350;108,0&output-format=jpg",
+        "picture": "https://r1imghtlak.mmtcdn.com/fa5d2e7ccfd311e9b6710242ac110002.jpg?&output-quality=100"
+    },
+    {
+        "name": "Park Hyatt",
+        "phone": "0177-265-1010",
+        "location": "Goa",
+        "address": "Arossim Beach, Cansaulim, Goa 403712",
+        "price": 8960,
+        "about": "Park Hyatt Goa is one of the best 5-star luxury beach resorts in Goa. Set within 45 acres of landscaped gardens with glimmering waterways and lagoons, the resort showcases charming Indo-Portuguese style room and suites, combining elegance with distinctive regional character. True to the Park Hyatt brand, Park Hyatt Goa Resort and Spa epitomises understated luxury and gracious service in an intimate sanctuary, offering guests an experience that is distinctively inspiring.",
+        "thumbnail": "https://pix10.agoda.net/hotelImages/43800/0/0d77f50935a741df5fecb5f11c0f3892.jpg?s=520x350",
+        "picture": "https://pix10.agoda.net/hotelImages/43800/0/0d77f50935a741df5fecb5f11c0f3892.jpg?s=1024x768"
+    },
+    {
+        "name": "Hard Rock",
+        "phone": "832-674-5555",
+        "location": "Goa",
+        "address": "370/14, Near KFC, Porba Vaddo, Calangute, Bardez, Goa 403516",
+        "price": 5291,
+        "about": "Have a rocking holiday at Hard Rock Hotel Goa, the first resort of its kind in India. Located in the heart of Calangute just minutes from a number of famed beaches, our Goa resort is a complete entertainment destination, offering world-class accommodations, stylish design and unparalleled service that will refine lifestyle hotel living.",
+        "thumbnail": "https://www.hoteldekho.com/room_images/hoteldekhox800_57d29510be8c4Swimming%20Pool1.jpg",
+        "picture": "https://m.hardrockhotelgoa.com/files/2216/HRH_Goa_Pool_9.jpg"
+    },
+    {
+        "name": "Sheraton",
+        "phone": "011-4266-1122",
+        "location": "New Delhi",
+        "address": "District Centre, Saket, New Delhi, Delhi 110017",
+        "price": 12172,
+        "about": "Featuring 4 dining options, an outdoor swimming pool and a spa and wellness centre, Sheraton New Delhi Hotel is located in Saket. Each room here will provide you with air conditioning and a minibar. Featuring a bath or shower, private bathroom also comes with a hairdryer and free toiletries. Extras include a safety deposit box, bed linen and ironing facilities. At Sheraton New Delhi Hotel you will find a fitness centre. Other facilities offered at the property include a tour desk and luggage storage.",
+        "thumbnail": "https://thumbnails.trvl-media.com/Wnev5f7YdcZSXLpC-zMXMEPckyA=/500x333/smart/filters:quality(80)/images.trvl-media.com/hotels/1000000/800000/790500/790474/1d819835_z.jpg",
+        "picture": "https://q-cf.bstatic.com/images/hotel/max1024x768/505/50566093.jpg"
+    },
+    {
+        "name": "The Taj Mahal Palace",
+        "phone": "022-6665-3366",
+        "location": "Mumbai",
+        "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+        "price": 38438,
+        "about": "Experience true grandeur at The Taj Mahal Palace, the iconic sea-facing landmark in Colaba, South Mumbai.This flagship Taj hotel offers you splendid views of the Arabian Sea and Gateway of India, alongside refined century-old hospitality.",
+        "thumbnail": "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Mahal_Mumbai/new-images/Golden%20Dragon11.png/jcr:content/renditions/cq5dam.web.756.756.png",
+        "picture": "https://video-images.vice.com/_uncategorized/1539694286858-Taj-Mumbai-If-These-Walls-Could-Talk-7-of-12.jpeg"
+    },
+    {
+        "name": "Clarkes Hotel",
+        "phone": "0177-265-1010",
+        "location": "Shimla",
+        "address": " The Mall Road, Shimla, Himachal Pradesh 171001",
+        "price": 8320,
+        "about": "Located on Shimla’s Mall Road, Clarkes Hotel is an oasis of calm on the bustling promenade. Built in 1898, Clarkes is classed as a Grand Heritage Hotel and is one of the oldest hotels in Shimla. Clarkes Hotel embodies the elegance and charm of yesteryear, with all modern conveniences and world class service. Clarkes Hotel is just 10 minutes by car from Shimla Railway Station and is within walking distance of Shimla attractions - Gaiety Theatre, Gorton Castle, Rothney Castle, many churches and other colonial era buildings.",
+        "picture": "https://www.clarkesshimla.com/images/clarkes-hotel-shimla-terrace1.jpg",
+        "thumbnail": "https://q-cf.bstatic.com/images/hotel/max1024x768/883/88312472.jpg"
+    },
+    {
+        "name": "Ginger Hotel",
+        "phone": "022-6666-6333",
+        "location": "Mumbai",
+        "address": "Mahakali Caves Road, Near Holy Spirit Hospital, Andheri East, Mumbai, Maharashtra 400093",
+        "price": 4282,
+        "about": "Ginger Hotel Andheri East is located off the Western Express Highway and is in close proximity to the railway station, the international airport and the Bombay Exhibition Centre. The hotel also provides convenient access to the city's thriving corporate hub on the Andheri Kurla Road. It offers guests 142 smartly furnished rooms equipped with a multitude of modern facilities and amenities.",
+        "thumbnail": "https://r-cf.bstatic.com/images/hotel/max1024x768/173/173009349.jpg",
+        "picture": "https://r-cf.bstatic.com/images/hotel/max1024x768/173/173009349.jpg"
+    },
+    {
+        "name": "The Hans",
+        "phone": "011 6615 0000",
+        "location": "New Delhi",
+        "address": "No. 15, Barakhamba Rd, Connaught Place, New Delhi, Delhi 110001",
+        "price": 5049,
+        "about": "Hans Hotels is a reputed name in the hospitality industry since its inception. Experience a timeless connection to nature and serenity at Hans Hotels. We make a special effort to make you feel at home and away from the humdrum of regular life.",
+        "thumbnail": "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/The-Oberoi-New-Delhi/overview/welcome/IMG_8308.jpg",
+        "picture": "https://ik.imagekit.io/tvlk/apr-asset/TzEv3ZUmG4-4Dz22hvmO9NUDzw1DGCIdWl4oPtKumOg%3D/hotels/21000000/20170000/20160800/20160759/7df9a628_z.jpg?tr=q-40,c-at_max,w-740,h-500&_src=imagekit"
+    }
+]
