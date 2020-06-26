@@ -21,11 +21,11 @@
     },
     "numberOfNights": {
       "type": "number",
-      "required": true
+      "required": false
     },
     "numberOfRooms": {
       "type": "number",
-      "required": true
+      "required": false
     },
     "date": {
       "type": "string",
